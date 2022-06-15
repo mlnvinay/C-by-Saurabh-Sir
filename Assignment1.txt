@@ -1,0 +1,57 @@
+ASSIGNMENT-1
+------------
+
+1)Why do computers understand only binary language?
+    Computers are madeup of hardwares such as CPU, RAM, ROM and harddisks. These components contains tiny trasnsistors, capacitors, in some cases magnetic disks(the magnetic poles are organised here), which can store tiny amount of current in them.If it contains current, then it is represented as binary digit 1 and if it doesnt contain current it is represented as binary digit 0. So, any interaction with these components must be made in terms of these digits(i.e.bits). So, computers understand only binary language.
+
+
+2)What is the full form of IDE?
+    Integrated Development Environment. IDE contains code editor, debbuging tools and build tools.
+
+
+3) What is the difference between a text editor and a code editor?
+    Text editor shows the plain typed text without highlighting to type plain text, where as code editor are specially designed for programming and shows the code highlighting for different programming languages. 
+
+
+4) What are the steps to develop software using the C language?
+    There are 2 steps:
+            1.Create a source file containg source code.
+            2.Build that source code into a software using building tools(preprocessor, compiler, linker).
+
+
+5) a. What is the latest version of C Language?
+        C17 pulished on Jun-2018 replaced by C11.
+
+   b. Who developed C Language?
+        Dennis M Ritchie.
+   
+   c.What is the difference between System and Application Software?
+        System software acts as a layer between the hardware and application software, It interacts directly with the hardware, it works    as a platform for application software. Some of the system software are operating systems, device drivers. Application software are user end software which perform particular task which sits on top of the system software such as calculator, text editor, music player.
+
+
+   d.How to convert a number from a decimal number system to a binary number system?
+        1)Write down the number.
+        2)Divide it by 2 and note the remainder.
+        3)Divide the quotient obtained by 2 and note the remainder.
+        3)Repeat the same process till we get 0 as the quotient.
+        4)Write the values of all the remainders starting from the bottom to the top.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
